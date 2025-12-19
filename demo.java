@@ -10,6 +10,7 @@ class Demo
 	{
 		Demo d=new Demo();
 		d.display();
+		System.out.println("hello");
 	}
 	
 }
